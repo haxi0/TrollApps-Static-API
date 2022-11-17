@@ -1,0 +1,14 @@
+{
+    "icon": "https://media.discordapp.net/attachments/969879614379921418/1042854504091090994/haxi0_iOS.png?width=419&height=419",
+    "name": "haxi0's Source",
+    "apps": [
+      {
+        "title": "Jaility",
+        "urlimg": "https://media.discordapp.net/attachments/969879614379921418/1042855197803827250/Icon-83_52x.png",
+        "description": "Simple iOS supercharger to be used with TrollStore. Can be used to disable locking after respring, supervise your Device in one click.",
+        "url": "https://github.com/haxi0/Jaility/releases/download/3.1.1/Jaility-3.1.1.ipa",
+        "bundleid": "org.haxi0.Jaility",
+        "completed": false
+      }
+    ]
+  }
