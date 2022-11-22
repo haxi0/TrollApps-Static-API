@@ -70,5 +70,14 @@
     "url": "https://github.com/opa334/TrollNonce/releases/latest/download/TrollNonce.tipa",
     "bundleid": "com.opa334.trollnonce",
     "completed": false
+  },
+  {
+    "id": 9,
+    "title": "ScreenshotX",
+    "urlimg": "https://cdn.discordapp.com/attachments/805435702816538667/1041294500913491978/icon.png",
+    "description": "Paste your screenshot on that and it will generate to beautiful pics.",
+    "url": "https://github.com/ConnorDoesDev/TrollApps/releases/download/TrollStore/ScreenshotX1.0.ipa",
+    "bundleid": "com.junesiphone.screenshotx",
+    "completed": false
   }
 ]
