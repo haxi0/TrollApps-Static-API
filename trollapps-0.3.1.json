@@ -79,5 +79,14 @@
     "url": "apple-magnifier://install?url=https://github.com/ConnorDoesDev/TrollApps/releases/download/TrollStore/ScreenshotX1.0.ipa",
     "bundleid": "com.junesiphone.screenshotx",
     "completed": false
+  },
+  {
+    "id": 10,
+    "title": "AirTroller",
+    "urlimg": "https://i.imgur.com/rYs2iqo.png",
+    "description": "Troll your friends (IOS 15 Only) with airdrops.",
+    "url": "apple-magnifier://install?url=https://github.com/sourcelocation/AirTroller/releases/download/1.1.1/AirTroller-1.1.1.tipa",
+    "bundleid": "net.sourceloc.AirTroller",
+    "completed": false
   }
 ]
